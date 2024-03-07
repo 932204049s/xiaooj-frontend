@@ -1,4 +1,5 @@
 # xiaooj-frontend
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+oj system front-end code
+>>>>>>> remotes/origin/main
